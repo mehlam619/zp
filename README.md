@@ -1,8 +1,5 @@
-# AliwixPlayer
-http://raw.githack.com/HeNy007/AliwixPlayer/master/index.html?src=https://heny007.github.io/2m.m3u8
-# ClapperPlayer
-http://raw.githack.com/HeNy007/AliwixPlayer/master/clapper.html?src=https://heny007.github.io/2m.m3u8
+https://raw.githack.com/mehlam619/zp/master/clapper.html?src=
 # ClapperPlayer2
-http://raw.githack.com/HeNy007/AliwixPlayer/master/clapper2.html?sv=https://heny007.github.io/2m.m3u8
+https://raw.githack.com/mehlam619/zp/master/clapper2.html?sv=
 # JwPlayer
-http://raw.githack.com/HeNy007/AliwixPlayer/master/jwplayer.html?src=https://heny007.github.io/2m.m3u8
+https://raw.githack.com/mehlam619/zp/master/jwplayer.html?src=
