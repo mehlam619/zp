@@ -11,21 +11,9 @@
 <title> DANGEROUS Player </title>
 </head>
 <body>
-   <div id="player">
-   <script>
-   function get(e){e=e.replace(/[\[]/,"\\[").replace(/[\]]/,"\\]");
-   var n="[\\?$]"+e+"=([^$#]*)",
-   l=new RegExp(n),
-   c=l.exec(window.location.href);
-   return null==c?"//www.drivetv.ga/video.mp4":unescape(c[1])}
-   var link=get("src");
-   var player = new Clappr.Player(
-   {source:link,
-   plugins: [LevelSelector], 
-   height:"100%",
-   width:"100%",parentId: "#player",mediacontrol: {seekbar: "#ff1d04", buttons: "#ff1d04"},
-   });
-   </script>
-   </div>
+   <div id="player"></div>
+  <script>
+    var player = new Clappr.Player({source: "http://your.video/here.mp4", parentId: "#player"});
+  </script>
 </body>
 </html>
